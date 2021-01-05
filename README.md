@@ -1,3 +1,3 @@
 # Clustering
 
-How to find clusters using machine learning.
+How to find clusters using Unsupervised Learning.
