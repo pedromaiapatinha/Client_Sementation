@@ -1,19 +1,13 @@
 # Client Sementation using Unsupervised Learning: K-means Clustering.
 
 ## Table of Content
-  * [Demo](#demo)
-  * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
+  * [Overview](#Overview)
+  * [Business Understanding](#Business Understanding)
+  * [The Challenge](#The Challenge)
   * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
-  * [To Do](#to-do)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Directory Tree](#Directory Tree)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
-  * [License](#license)
   * [Credits](#credits)
 
 ## Overview
@@ -21,16 +15,6 @@ This is an academic project with fictional data. This was developed under the sc
 
 ## Business Understanding
 LaGoste Stores is a company that operates in the fashion, sports and luxury sectors. Their products offer consists in five categories: Sneakers, Rackets, T-Shirts, Watches and Hats, each one divided in Premium Brand and Mainstream Articles. All the products can be purchased in physical stores, in their website or ordered through their quaterly catalogs. Currently, they sell their products to more than one million consumers every year and they have around 300 000 registered customers.
-
-## Technical Aspect
-This project is divided into two part:
-1. Training a deep learning model using Keras. (_Not covered in this repo. I'll update the link here once I make it public._)
-2. Building and hosting a Flask web app on Heroku.
-    - A user can choose image from a device or capture it using a pre-built camera.
-    - Used __Amazon S3 Bucket__ to store the uploaded image and predictions.
-    - Used __CSRF Token__ to protect against CSRF attacks.
-    - Used __Sentry__ to catch the exception on the back-end.
-    - After uploading the image, the predictions are displayed on a __Bar Chart__.
 
 ## The Challenge
 In spite of having solid revenues and a healthy bottom line for the past five years, the company's profit growth perspectives for the next two years are not optimistic. In order to change those perspectives the company is outlining some strategic initiatives.
@@ -58,4 +42,6 @@ src="/static/img/pandas_white.svg"
 [![Maria Branco]()]() |
 
 ## Credits
+```
 
+```
