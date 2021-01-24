@@ -11,7 +11,7 @@
   * [Credits](#credits)
 
 ## Overview
-This is an academic project with fictional data. This was developed under the scope of Machine Learning curricular unit at NOVA IMS.
+This is an academic project with fictional data and it was developed under the scope of Machine Learning curricular unit at NOVA IMS.
 
 ## Business Understanding
 LaGoste Stores is a company that operates in the fashion, sports and luxury sectors. Their products offer consists in five categories: Sneakers, Rackets, T-Shirts, Watches and Hats, each one divided in Premium Brand and Mainstream Articles. All the products can be purchased in physical stores, in their website or ordered through their quaterly catalogs. Currently, they sell their products to more than one million consumers every year and they have around 300 000 registered customers.
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-src="/static/img/pandas_white.svg"
+
 [<img target="_blank" src="/static/img/pandas_white.svg" width=200>](https://pandas.pydata.org/) [<img target="_blank" src="/images/logos/numpy.svg" width=170>](https://numpy.org/) [<img target="_blank" src="_static/logo-wide-lightbg.svg" width=280>](https://seaborn.pydata.org/) [<img target="_blank" src="_static/logo2_compressed.svg" width=200>](https://matplotlib.org/) 
 
 
