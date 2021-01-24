@@ -2,10 +2,10 @@
 
 ## Table of Content
   * [Overview](#Overview)
-  * [Business Understanding](#Business Understanding)
-  * [The Challenge](#The Challenge)
-  * [Installation](#installation)
-  * [Directory Tree](#Directory Tree)
+  * [Business Understanding](#Business-Understanding)
+  * [The Challenge](#The-Challenge)
+  * [Installation](#Installation)
+  * [Directory Tree](#Directory-Tree)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [Credits](#credits)
