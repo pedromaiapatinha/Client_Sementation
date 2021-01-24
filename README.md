@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" width=200>](https://pandas.pydata.org/) [<img target="_blank" src="/images/logos/numpy.svg" width=170>](https://numpy.org/) [<img target="_blank" src="_static/logo-wide-lightbg.svg" width=280>](https://seaborn.pydata.org/) [<img target="_blank" src="_static/logo2_compressed.svg" width=200>](https://matplotlib.org/) 
+[<img target="_blank" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" width=200>](https://pandas.pydata.org/) [<img target="_blank" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&psig=AOvVaw3FTzoBoGUOYWEiIKp_Mlpq&ust=1611610958435000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiXtufEte4CFQAAAAAdAAAAABAT" width=170>](https://numpy.org/) [<img target="_blank" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseaborn.pydata.org%2F&psig=AOvVaw0ALx9rbz4LP3HEc201GeyV&ust=1611611025892000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjbgIjFte4CFQAAAAAdAAAAABAD" width=280>](https://seaborn.pydata.org/) [<img target="_blank" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatplotlib.org%2F3.3.3%2Fgallery%2Fmisc%2Flogos2.html&psig=AOvVaw2aIXI8nAwZsI_XSyteV7yj&ust=1611611055193000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODv6ZbFte4CFQAAAAAdAAAAABAS" width=200>](https://matplotlib.org/) 
 
 
 ## Team
