@@ -27,7 +27,10 @@ pip install -r requirements.txt
 
 ## Directory Tree 
 ```
-
+├── Clustering.ipynb
+├── LaGoste_Campaign.xlsx
+├── README.md
+└── requirements.txt
 ```
 
 ## Technologies Used
@@ -40,8 +43,7 @@ pip install -r requirements.txt
 ## Team
 [![Domingos Lemos]()]() |
 [![Maria Branco]()]() |
+[![Pedro Patinha]()]() |
 
 ## Credits
-```
-
-```
+Team work made this long project possible, as we performed a long and detailed data processing. Besides having time constrains and being at the beginning of our learning curve, we nailed it.
