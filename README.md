@@ -1,4 +1,4 @@
-# Client Sementation using Unsupervised Learning: K-means Clustering.
+# Client Sementation using Unsupervised Learning: K-means Clustering
 
 ## Table of Content
   * [Overview](#Overview)
